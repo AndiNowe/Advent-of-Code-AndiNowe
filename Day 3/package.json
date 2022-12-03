@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "start": "tsc day3a.ts && node day3a.js"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.10"
+    }
+}
